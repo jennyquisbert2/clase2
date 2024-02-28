@@ -1,0 +1,22 @@
+*{
+    font-family: monospace;
+    margin: 30px;
+}
+body{
+    background-color: coral;
+}
+h1{
+    color: rgb(160, 5, 5);
+    border: 10px;
+    border-style: dotted;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+p{color:rgb(78, 155, 255); text-align: justify; border-radius: 30px; border-style: solid ; 
+  border-color: chartreuse;
+  background-color: brown;
+}
+img{
+    width: 300px;
+}
